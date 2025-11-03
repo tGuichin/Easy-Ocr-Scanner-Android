@@ -61,6 +61,6 @@ Call ```java onImageTaken()``` in ```java onActivityResult()```
 
 <b>And you are done!</b>
 
-Get the scaned text in the callback ```java onOcrScanFinished()```.
+Get the scanned text in the callback ```java onOcrScanFinished()```.
 
 <em>For more info check the sample app in the app module.</em>
